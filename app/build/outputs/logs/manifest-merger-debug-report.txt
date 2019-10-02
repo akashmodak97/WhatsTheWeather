@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\fa6a2800a858a1e856425c02a0ff775d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9de84d0d845569d6c67baebdbbd8f869\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d0f5b98867b0e3da313f593541451e06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0f4117d80e6dd8cb2e4b78e20c537b48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ca5369277cb2c79da76143849c0a3693\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\41e51f740dac4deef7a29ab022ceca80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\00f4998de520b963df50addf02c6745b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\679d58e9d75ca76f7dfc7e46a33ccefc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\de9c42a94fc6fce37b239d1f147b18c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\366a2665dae12a06f1ff51b88e87ae02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\edbe93cb04ccff04440a7af5c822c724\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ca8a9d1037d325e4c8947063c2a31e0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\93f5546ae559bd05cca9fe83ea4e2de4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f3920f53532e2fa8665519f89ba3f659\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\460e5871d01cd218d385c695f47cd99f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\88d7713e8214d467717de7050bd134bc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dc7ef2cb9e415d08d3d2346127b63c10\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\72ce4626e4118d7806c0f19f475490f4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f5ea74b32963d5eca4bb1bb6d65b6653\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e5c31d401842b9c9a971c0e70c273176\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\81ec4342d1ba710a2ad160397b1bf521\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\746acb072bbafcf09053322895cb9889\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1ea4ac92f9941956a87bf9b19a687d10\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8c38161d8e6ddc89700d9671d891424c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\14bbe9f79adcb60c4cf3c68b96a84d6d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\36e23838a9635bc25125a4de1a327d0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8e14b377d8d8526ca41436b7a0d765e6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9de84d0d845569d6c67baebdbbd8f869\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9de84d0d845569d6c67baebdbbd8f869\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\88d7713e8214d467717de7050bd134bc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\88d7713e8214d467717de7050bd134bc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dc7ef2cb9e415d08d3d2346127b63c10\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dc7ef2cb9e415d08d3d2346127b63c10\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\88d7713e8214d467717de7050bd134bc\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.akash.whatstheweather.MainActivity
+ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\fa6a2800a858a1e856425c02a0ff775d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\fa6a2800a858a1e856425c02a0ff775d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9de84d0d845569d6c67baebdbbd8f869\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9de84d0d845569d6c67baebdbbd8f869\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d0f5b98867b0e3da313f593541451e06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d0f5b98867b0e3da313f593541451e06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0f4117d80e6dd8cb2e4b78e20c537b48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0f4117d80e6dd8cb2e4b78e20c537b48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ca5369277cb2c79da76143849c0a3693\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ca5369277cb2c79da76143849c0a3693\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\41e51f740dac4deef7a29ab022ceca80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\41e51f740dac4deef7a29ab022ceca80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\00f4998de520b963df50addf02c6745b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\00f4998de520b963df50addf02c6745b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\679d58e9d75ca76f7dfc7e46a33ccefc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\679d58e9d75ca76f7dfc7e46a33ccefc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\de9c42a94fc6fce37b239d1f147b18c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\de9c42a94fc6fce37b239d1f147b18c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\366a2665dae12a06f1ff51b88e87ae02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\366a2665dae12a06f1ff51b88e87ae02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\edbe93cb04ccff04440a7af5c822c724\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\edbe93cb04ccff04440a7af5c822c724\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ca8a9d1037d325e4c8947063c2a31e0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ca8a9d1037d325e4c8947063c2a31e0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\93f5546ae559bd05cca9fe83ea4e2de4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\93f5546ae559bd05cca9fe83ea4e2de4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f3920f53532e2fa8665519f89ba3f659\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f3920f53532e2fa8665519f89ba3f659\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\460e5871d01cd218d385c695f47cd99f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\460e5871d01cd218d385c695f47cd99f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\88d7713e8214d467717de7050bd134bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\88d7713e8214d467717de7050bd134bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dc7ef2cb9e415d08d3d2346127b63c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dc7ef2cb9e415d08d3d2346127b63c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\72ce4626e4118d7806c0f19f475490f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\72ce4626e4118d7806c0f19f475490f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f5ea74b32963d5eca4bb1bb6d65b6653\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f5ea74b32963d5eca4bb1bb6d65b6653\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e5c31d401842b9c9a971c0e70c273176\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e5c31d401842b9c9a971c0e70c273176\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\81ec4342d1ba710a2ad160397b1bf521\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\81ec4342d1ba710a2ad160397b1bf521\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\746acb072bbafcf09053322895cb9889\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\746acb072bbafcf09053322895cb9889\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1ea4ac92f9941956a87bf9b19a687d10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1ea4ac92f9941956a87bf9b19a687d10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8c38161d8e6ddc89700d9671d891424c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8c38161d8e6ddc89700d9671d891424c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\14bbe9f79adcb60c4cf3c68b96a84d6d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\14bbe9f79adcb60c4cf3c68b96a84d6d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\36e23838a9635bc25125a4de1a327d0c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\36e23838a9635bc25125a4de1a327d0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8e14b377d8d8526ca41436b7a0d765e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\AKASH\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8e14b377d8d8526ca41436b7a0d765e6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AKASH\AndroidStudioProjects\WhatsTheWeather\app\src\main\AndroidManifest.xml
